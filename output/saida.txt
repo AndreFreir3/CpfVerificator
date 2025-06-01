@@ -1,0 +1,8 @@
+12345678909 - Valido
+98765432100 - Valido
+11144477735 - Valido
+12165260442 - Valido
+11111111111 - Invalido
+32124 - Invalido
+789076334 - Invalido
+0000000001 - Invalido
